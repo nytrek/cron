@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:20
 WORKDIR /app
 RUN npm install -g pnpm
 ADD package.json pnpm-lock.yaml ./
