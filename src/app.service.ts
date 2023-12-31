@@ -442,7 +442,7 @@ export class AppService {
               ]
             } och hitta ${Pronoun[type_formatted]} nästa ${
               Singular[type_formatted]
-            } genom Bostadsval. Vi samlar ${
+            } genom Frontend. Vi samlar ${
               Singular[type_formatted]
             }-annonser från privata hyresvärdar ${
               synonyms[type_formatted]["landet över"][
@@ -487,7 +487,7 @@ export class AppService {
                     1,
                 )
               ]
-            }. Låt Bostadsval vara din ${
+            }. Låt Frontend vara din ${
               synonyms[type_formatted].partner[
                 getRandomArbitrary(
                   0,
@@ -550,7 +550,7 @@ export class AppService {
               ]
             }. \n ## Hyr ut din ${
               Singular[type_formatted]
-            } via Bostadsval \n Om du är en hyresvärd som har en ${
+            } via Frontend \n Om du är en hyresvärd som har en ${
               Singular[type_formatted]
             } i ${city} som du vill hyra ut, kan du enkelt publicera din annons på vår plattform. Detta gör att ${
               synonyms[type_formatted].potentiella[
@@ -877,7 +877,7 @@ export class AppService {
                     ]
                   } och hitta ${Pronoun[type_formatted]} nästa ${
                     Singular[type_formatted]
-                  } genom Bostadsval. Vi samlar ${
+                  } genom Frontend. Vi samlar ${
                     Singular[type_formatted]
                   }-annonser från privata hyresvärdar ${
                     synonyms[type_formatted]["landet över"][
@@ -924,7 +924,7 @@ export class AppService {
                           .length - 1,
                       )
                     ]
-                  }. Låt Bostadsval vara din ${
+                  }. Låt Frontend vara din ${
                     synonyms[type_formatted].partner[
                       getRandomArbitrary(
                         0,
@@ -987,7 +987,7 @@ export class AppService {
                     ]
                   }. \n ## Hyr ut din ${
                     Singular[type_formatted]
-                  } via Bostadsval \n Om du är en hyresvärd som har en ${
+                  } via Frontend \n Om du är en hyresvärd som har en ${
                     Singular[type_formatted]
                   } i ${city} som du vill hyra ut, kan du enkelt publicera din annons på vår plattform. Detta gör att ${
                     synonyms[type_formatted].potentiella[
